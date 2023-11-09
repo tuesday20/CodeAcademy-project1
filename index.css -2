@@ -1,1 +1,50 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.image-container {
+  overflow: hidden;
+  position: relative;
+  }
+ .pattern {
+  height: 100%;
+  width: 100%;
+ }
+ .text-overlay {
+  object-position: center;
+  font-family: Helvetica;
+  font-size: 100px;
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  color: khaki; 
+  padding: 10px;
+  border-radius: 5px;
+   }
 
+.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.selling {
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
+.frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+.paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
