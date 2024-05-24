@@ -19,7 +19,7 @@ body {
   left: 10%;
   color: khaki; 
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 6px;
    }
 
 .brushes {
